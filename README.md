@@ -2,17 +2,14 @@
 
 *Chubin Zhang<sup>1</sup>,
 Zhenglin Wan<sup>2</sup>,
-Xingrui Yu<sup>3,4,‡</sup>,
-Jingxuan Wu<sup>5</sup>,
+Xingrui Yu<sup>3</sup>,
+Jingxuan Wu<sup>4</sup>,
 Qi Wen<sup>2</sup>,
 Pengfei Zhou<sup>2</sup>,
 Wangbo Zhao<sup>2</sup>,
-Ivor Tsang<sup>1,3,4</sup>*
+Ivor Tsang<sup>1,3</sup>*
 
-<sup>1</sup>Nanyang Technological University, Singapore &nbsp; <sup>2</sup>National University of Singapore, Singapore
-<sup>3</sup>CFAR, A\*STAR, Singapore &nbsp; <sup>4</sup>IHPC, A\*STAR, Singapore &nbsp; <sup>5</sup>UNC-Chapel Hill, United States
-
-(<sup>‡</sup>: Corresponding author)
+<sup>1</sup>NTU, Singapore &nbsp; <sup>2</sup>NUS, Singapore &nbsp; <sup>3</sup>A\*STAR, Singapore &nbsp; <sup>4</sup>UNC-Chapel Hill, USA
 
 <p align="center">
   <a href="https://arxiv.org/abs/2606.21399">
@@ -25,6 +22,8 @@ Ivor Tsang<sup>1,3,4</sup>*
   &nbsp;
   <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" alt="MIT License">
 </p>
+
+> 🎉 **Our paper has been accepted to NeurIPS 2026!**
 
 **Calibration Is Not Control** shows that a calibrated failure score is not enough to decide when an LLM agent should be stopped or handed off: states with the same failure risk can call for different actions, and the decision depends on what the intervention would achieve.
 
