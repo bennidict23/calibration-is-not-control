@@ -1,0 +1,5 @@
+numpy==2.2.6
+scikit-learn==1.7.2
+requests
+alfworld==0.4.2
+textworld==1.7.0
